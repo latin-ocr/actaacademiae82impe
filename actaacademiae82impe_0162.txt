@@ -1,0 +1,37 @@
+»sas ) 1¹2 ( ssa·-
+
+vtcunque inaequabilem, ita tamen vt centrum inertiae ca-
+dat in centrum figurae: hocque pasto neceffe erit in globo
+ternos axes principales considerari, qui ex centro 1 pertin·
+gant in puncta A, B, C, quadrantibus a se inuicem dis-
+tantia, quorum respectu sint momenta inertiae Μαα,
+Μ bb, Μ cc. Quanquam autem deinceps bina vel omnia
+hacc momenta inter se aequalia statuemus, tamen conue-
+niet tria huiusmodi puncta in superficie fixa notasse, quo
+cx eorum relatione ad spatium absolutum fitcilius motus
+globi definiri poffit. Constitutis autem in globis his tri-
+bus punctis A, B, C, quoniam motus gyrationis circa O,
+quem in plagam Tc dirigi assumimus, sensum habet CBA,
+contrarium ei quem supra statuimus, in applicatione for-
+mularum generalium ad hunc casum celeritatem angula-
+rem 3 vt negatiuam spectare debemus,
+
+Problema II.
+
+ξ. 7. Si globus super plano horizonta& vta-unque
+moueatur, definire vires, quibus sollicitatur, earumque mo-
+menta respetlu ternorum axium principalium globi.
+
+Solutio.
+
+Tab. lV. Inclusus concipiatur globus sphaerae vel fixae vel cum
+fig. 2· eo parem motum progressiuum habenti, inqu-1 Z sit punc-
+tum verticale eiusque oppofitum T punc‘tnm contactus,
+DE vero fit diameter horizontalis ad certam mundi pla-
+gam tcndens et DP QE circulus maximus ’ horizontalis.
+Nunc autem elapso tempore t moueatur globus motu
+progreffiuo secundum directionem Pl celeritate zv, po·
+
+naturque arcus DP, seu angulus D ZP: φ·, axes autem
+prin-
+

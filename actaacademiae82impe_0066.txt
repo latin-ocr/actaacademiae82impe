@@ -1,0 +1,43 @@
+»52³3 ) ¹6( 5:0³-
+
+ciori, hic adiungam, quae ita est comparata, vt ad alia
+infignia inuenta ducere pofle videatur.
+
+Methodus generalis
+inueniendi traieaorias reciprocas algebraicaS.
+
+§. 21. Primum igitur obstruo, formulam fimpli.
+
+cem ipso initio inuentam pzssssg‘ ita late patere, vt
+
+reliquas magis compositas, quas exhibuimus, in se com-
+Ρὶεᾶειωτ, cum faeta euolutione tam'numerator Quam de-
+nominator reducatur fiue ad summam siue ad differentiam
+binarum formularum, quarum altera fit funftio par, altera
+
+vero impar ipfius z. Nunc igitur cum ἓ fit etiam func„
+
+tio impar, faciamus Q:Pq‚ fietque p :ti—y: Γῒ-Ξ, vbi
+
+q denotat funffionem imparem ipfius z. Necesse igitur
+est vt etiam x fiat functio impar ipfius q, quamobrem
+
+· ² . dy - (ι -ι- 111² ·
+hanc formulam 1ta exlnbeamus. {sae-“125⁸ vt denomma·
+
+tor euadat funstio par ipssus q.
+
+ 
+
+ξ. 22. Cum igitur debeat effe
+dx=dy:¹—qq·(1÷‚q)²
+statuamus:
+dxzdS(1 -qq) et dyzds 1 -ὶ qY,
+eritque per notam ἱῖτηιυίπιιῐη integralium ιοάιιέῖῐοηοπιτ
+sz(1—qq)-†-2sSqdq et
+y:S(1—÷-q)·- -2sSd‘1(1 -4-q)2
+vbi patet, funftionem S (ffe debere imparem ipfins q, vt
+ctiam ,τ talis prodeat suncstio. Hoc igitur modo rem per-
+
+duximus
+

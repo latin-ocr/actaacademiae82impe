@@ -1,0 +1,43 @@
+Tab. ΙΙΙ.
+
+»zet-3 ΓΜ( 5³³3<-
+
+·pro circulo maximo3 reliquis vero cafibus ab aequatione
+pro circulo valde differt.
+
+Theore-ma 2.
+§. 8. Circulo in superficie Sphaerae descripto BCA,
+
+Fig. 5. fl inscriptum intelligatur triangulum Sphaericum B CA, eius-
+
+‘que latera A Β , Β C, A C producantur vsque dum oppofitis
+arcubus circulorum maximorum C F , A D, B E circulum pro-
+positum in C, A et Β tangentibus occurrant, punft‘a ista oc-
+curfits F, D, E super eodem circulo maximo reperientur.
+
+, Demonstrati&
+
+Ducatur arcus circuli maximi A G ea ratione, vt
+angulus A G F :z B D F; erit igitur in triangulis Β D F ,
+A G F, ob angulum AFG communem et AGFzssnF,
+sm. B F: fin. A F z fin. B D: sm. A G. At per Theorema
+nostrum praeliminare ob arcum FC tangentem et ΕΑΒ
+secantem circulum BCA erit:
+
+sm.FB:sm.AF:sm.;BC²2sm·;AC²2
+fimilique modo
+
+fin.DB:fin.DC.—„fin.;A13²:fin.;AC² et
+
+fin.EC:fin.EA:fin.;Bc²:sm.gAB23
+
+vnde componendo vltimas has rationes:
+sm.DBsm.Ec;fin,DCfin.EAzs1n.;BC²:fin.;AC·
+
+:smAEBzfimAFz sm.DB:sm.AG. ,
+Hincque colligitur:
+sm. EC :fin,EA:fin.CD2sm.AG,
+
+quod fieri nequit nifi arcus circuli maximi DG prodssffl¹⁵
+oc-
+

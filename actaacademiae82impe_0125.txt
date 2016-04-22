@@ -1,0 +1,52 @@
+ωὲοἳ )75( ἓςὲἐ*
+
+vnde intelligitur, quemadmodum omnes logarithmos per
+fractiones continuas exprimi conueniat.
+
+, 20. Possem liic pro n numeri fracti accipi, tum
+autem priores termini in singulis membris prodirent fracti,
+quas quidem per reductionem ad integros reuocare liceret:
+verum huiusmodi caius facillime ex forma generali deri-
+uari potsunt, scribendo statim h :n et af:m; tum enim
+habebimus
+
+2 m
+l'ffiif Ξ n — m m
+
+m
+
+ἔ
+
+ 
+
+3 n — 4 mm
+5 n — 9 mm
+
+ 
+
+ 
+
+ 
+
+ 
+
+7 n — etc.
+vnde fi loco m scribatur V k, erit
+2 V k
+l ,Βῆ-ἔ z n — ¹
+„—
+3 n — 4 k
+ξῖἶῖ 9 k
+ἧῖιῗ etc.
+
+ξ. 21. Hinc igitur omnium numerorum integro·
+rum logarithmos hyperbolicos per frac‘tiones continuas ex-
+primere poterimus. Propositus igitur fit in genere nume-
+rus integer i, ac statuatur “ff—mffzi, erit {zm-1· Ca-⁴
+
+1—
+
+ 
+
+piatur ergo n z z· —1— 1 et m z i -* 1, atque habebimus
+
